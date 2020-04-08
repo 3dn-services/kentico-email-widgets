@@ -8,6 +8,8 @@ It consists of a Kentico import package that includes:
 
 Each email template has been built on top of a responsive email framework that ensure readability on dozens of email clients. The widgets are also built to work responsively.
 
+Here's a [video explanation of the templates and widgets](https://tdncloud.s3.amazonaws.com/Media/EmailWidgets.mp4).
+
 ## Templates
 Each template is fundementally the same in layout and design but implements a clean and cohesive colour scheme that is applied to he templates. You'll of course have access to the css in each template to be able adapt it to suit your requirements
 
@@ -24,9 +26,10 @@ Some of the included widgets:
 - 3 multi-column widgets to layout cards or badges, content, products or images
 - Practical widgets like spacers, seperators, social icons and fineprint
 
-download & installation instructions
-(a link to) contribution guidelines
-(a link to) license information
-compatibility information
-information about how the project is supported in case users have questions or find a bug
-(optional, but recommended) a screenshot/gif of the extension
+## Instructions
+Download the Kentico export (.zip file) and import into your Kentico site.  It will import all Email Templates and Email Widgets.  You can then use these templates as normal in Kentico.
+
+## Compatibility and Support
+This supports Kentico 12.  Support is available as a paid service from [3 Degrees North](https://3degreesnorth.com.au/Get-In-Touch) as needed.
+
+
