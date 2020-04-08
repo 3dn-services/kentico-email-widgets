@@ -27,7 +27,7 @@ Some of the included widgets:
 - Practical widgets like spacers, seperators, social icons and fineprint
 
 ## Instructions
-Download the Kentico export (.zip file) and import into your Kentico site.  It will import all Email Templates and Email Widgets.  You can then use these templates as normal in Kentico.
+Download the [Kentico export](package/export_20200408_1048.zip) (.zip file) and import into your Kentico site.  It will import all Email Templates and Email Widgets.  You can then use these templates as normal in Kentico.
 
 ## Compatibility and Support
 This supports Kentico 12.  Support is available as a paid service from [3 Degrees North](https://3degreesnorth.com.au/Get-In-Touch) as needed.
