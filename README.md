@@ -11,7 +11,7 @@ Each email template has been built on top of a responsive email framework that e
 Here's a [video explanation of the templates and widgets](https://tdncloud.s3.amazonaws.com/Media/EmailWidgets.mp4).
 
 ## Templates
-Each template is the same in layout and design but implements a clean and cohesive colour scheme that is applied to he templates. You'll of course have access to the css in each template to be able adapt it to suit your requirements
+Each template is basically the same in layout and design but implements a clean and cohesive colour scheme that is applied to he templates. You'll of course have access to the css in each template to be able adapt it to suit your requirements
 
 Here's an example template in use with the widgets:
 
